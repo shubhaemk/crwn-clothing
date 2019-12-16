@@ -1,5 +1,5 @@
 ![crwn-home](/screenshots/crwn-0.png)
-Crwn-clothing is e-commerce website built with React
+Crwn-clothing is a e-commerce website built with React
 
 # Features :fire:
 
