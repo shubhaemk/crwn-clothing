@@ -16,10 +16,10 @@ Crwn-clothing is e-commerce website built with React
 
 # Screenshots :camera:
 
+### Shopping Menu :moneybag:
+
 ![crwn-shop](screenshots/crwn-1.png)
 
-## Shopping Menu :moneybag:
+### Log In Menu :lock:
 
 ![crwn-login](screenshots/crwn-2.png)
-
-### Log In Menu :lock:
