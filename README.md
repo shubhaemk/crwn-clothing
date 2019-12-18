@@ -11,6 +11,7 @@ Crwn-clothing is a e-commerce website built with React. Demo - [CRWN-Clothing](h
 # Libraries :closed_book:
 
 * [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
 * [React-Router](https://reacttraining.com/react-router/web/guides/quick-start)
 * [Firebase](https://firebase.google.com/)
 
