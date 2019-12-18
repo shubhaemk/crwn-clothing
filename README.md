@@ -1,5 +1,5 @@
 ![crwn-home](/screenshots/crwn-0.png)
-Crwn-clothing is a e-commerce website built with React. Demo - [CRWN-Clothing](https://shubhaemk.github.io/crwn-clothing/)
+Crwn-clothing is an e-commerce website built with React. Demo - [CRWN-Clothing](https://shubhaemk.github.io/crwn-clothing/)
 
 # Features :fire:
 
